@@ -1,0 +1,27 @@
+{
+  "name": "mpv_trader_wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agencia-CodeX/MPV_Trader_Wallet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agencia-CodeX/MPV_Trader_Wallet/issues"
+  },
+  "homepage": "https://github.com/Agencia-CodeX/MPV_Trader_Wallet#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
